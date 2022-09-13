@@ -2203,3 +2203,25 @@ Launching language server: /root/.local/share/code-server/extensions/hashicorp.t
 2022/09/13 10:02:41 rpc_logger.go:29: Incoming request for "workspace/executeCommand" (ID 26): {"command":"f.terraform-ls.module.callers","arguments":["uri=file:///root/workspace/sentinel/mocks"]}
 2022/09/13 10:02:41 rpc_logger.go:50: Response to "workspace/executeCommand" (ID 26): {"v":0,"callers":[]}
 2022/09/13 10:02:41 opts.go:218: Completed 1 requests [163.56µs elapsed]
+2022/09/13 10:36:29 opts.go:218: Received request batch of size 1 (qlen=0)
+2022/09/13 10:36:29 opts.go:218: Dequeued request batch of length 1 (qlen=0)
+2022/09/13 10:36:29 rpc_logger.go:29: Incoming request for "shutdown" (ID 27): 
+2022/09/13 10:36:29 service.go:550: stopping closedDirWalker for session ...
+2022/09/13 10:36:29 service.go:552: closedDirWalker stopped
+2022/09/13 10:36:29 service.go:555: stopping openDirWalker for session ...
+2022/09/13 10:36:29 service.go:557: openDirWalker stopped
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 rpc_logger.go:50: Response to "shutdown" (ID 27): null
+2022/09/13 10:36:29 opts.go:218: Completed 1 requests [18.61527ms elapsed]
+2022/09/13 10:36:29 opts.go:218: Server signaled to stop with err=EOF
+2022/09/13 10:36:29 opts.go:218: Error reading from client: EOF
+2022/09/13 10:36:29 service.go:541: session stopped unexpectedly (err: <nil>)
+2022/09/13 10:36:29 service.go:550: stopping closedDirWalker for session ...
+2022/09/13 10:36:29 service.go:552: closedDirWalker stopped
+2022/09/13 10:36:29 service.go:555: stopping openDirWalker for session ...
+2022/09/13 10:36:29 service.go:557: openDirWalker stopped
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 langserver.go:107: Stopping server (pid 3118) ...
+2022/09/13 10:36:29 langserver.go:111: Server (pid 3118) stopped.

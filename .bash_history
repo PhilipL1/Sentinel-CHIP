@@ -34,3 +34,10 @@ git remote remove origin
 git init
 git remote add origin https://github.com/PhilipL1/Sentinel-CHIP.git
 git add .
+git commit -m "sentinel project"
+git config --global user.email "philiplartey1@hotmail.com"
+git config --global user.name "Philip"
+git commit -m "sentinel project"
+git push -u -f origin main
+git push -u -f origin master
+git init 

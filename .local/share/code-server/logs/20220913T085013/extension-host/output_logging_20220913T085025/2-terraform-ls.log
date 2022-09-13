@@ -2062,3 +2062,25 @@ Launching language server: /root/.local/share/code-server/extensions/hashicorp.t
 2022/09/13 08:59:09 provider_schema.go:106: PSS: adding local schema (/root/workspace/tf-config, registry.terraform.io/hashicorp/aws): 0xc01191b2d8
 2022/09/13 08:59:09 provider_schema.go:106: PSS: adding local schema (/root/workspace/tf-config, registry.terraform.io/hashicorp/random): 0xc01191b518
 2022/09/13 08:59:09 jobs.go:380: JOBS: Finishing job "8": "OpTypeObtainSchema" for {"file:///root/workspace/tf-config"} (err = %!s(<nil>), deferredJobs: [])
+2022/09/13 10:36:29 opts.go:218: Received request batch of size 1 (qlen=0)
+2022/09/13 10:36:29 opts.go:218: Dequeued request batch of length 1 (qlen=0)
+2022/09/13 10:36:29 rpc_logger.go:29: Incoming request for "shutdown" (ID 2): 
+2022/09/13 10:36:29 service.go:550: stopping closedDirWalker for session ...
+2022/09/13 10:36:29 service.go:552: closedDirWalker stopped
+2022/09/13 10:36:29 service.go:555: stopping openDirWalker for session ...
+2022/09/13 10:36:29 service.go:557: openDirWalker stopped
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 rpc_logger.go:50: Response to "shutdown" (ID 2): null
+2022/09/13 10:36:29 opts.go:218: Completed 1 requests [277.654µs elapsed]
+2022/09/13 10:36:29 opts.go:218: Server signaled to stop with err=EOF
+2022/09/13 10:36:29 opts.go:218: Error reading from client: EOF
+2022/09/13 10:36:29 service.go:541: session stopped unexpectedly (err: <nil>)
+2022/09/13 10:36:29 service.go:550: stopping closedDirWalker for session ...
+2022/09/13 10:36:29 service.go:552: closedDirWalker stopped
+2022/09/13 10:36:29 service.go:555: stopping openDirWalker for session ...
+2022/09/13 10:36:29 service.go:557: openDirWalker stopped
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 scheduler.go:54: stopped scheduler
+2022/09/13 10:36:29 langserver.go:107: Stopping server (pid 2394) ...
+2022/09/13 10:36:29 langserver.go:111: Server (pid 2394) stopped.

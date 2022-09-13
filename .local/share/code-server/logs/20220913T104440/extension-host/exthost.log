@@ -1,0 +1,15 @@
+[2022-09-13 10:44:44.264] [exthost] [info] extension host started
+[2022-09-13 10:44:44.311] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': Lock acquired.
+[2022-09-13 10:44:44.403] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-09-13 10:44:44.411] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2022-09-13 10:44:44.431] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 10:44:44.431] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2022-09-13 10:44:45.108] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 10:44:45.109] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2022-09-13 10:44:45.343] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2022-09-13 10:44:45.345] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2022-09-13 10:44:46.561] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2022-09-13 10:44:46.561] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2022-09-13 10:44:46.619] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2022-09-13 10:44:46.619] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2022-09-13 10:44:46.633] [exthost] [info] eager extensions activated

@@ -93,3 +93,15 @@
 [2022-09-13 10:29:01.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
 [2022-09-13 10:29:01.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/npm/dist/npmMain
 [2022-09-13 10:30:12.538] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000
+[2022-09-13 10:36:28.644] [exthost] [info] extension host terminating: parent process 2311 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-09-13 10:36:28.666] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-2/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-13 10:36:28.682] [exthost] [info] extension host terminating: parent process 2311 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-09-13 10:36:28.684] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-13 10:36:28.713] [exthost] [info] extension host terminating: parent process 2311 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-09-13 10:36:28.713] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-13 10:36:28.721] [exthost] [info] extension host terminating: parent process 2311 does not exist anymore: kill ESRCH (code: ESRCH) (errno: -3)
+[2022-09-13 10:36:28.722] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-3/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-09-13 10:36:29.929] [exthost] [info] exiting with code 0
+[2022-09-13 10:36:29.945] [exthost] [info] exiting with code 0
+[2022-09-13 10:36:30.051] [exthost] [info] exiting with code 0
+[2022-09-13 10:36:30.101] [exthost] [info] exiting with code 0
