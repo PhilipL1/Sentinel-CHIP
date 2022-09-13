@@ -1,0 +1,42 @@
+id = "run-bF9UMenchNYikiHE"
+created_at = "2022-09-13T09:05:22.661Z"
+message = "Triggered via CLI"
+commit_sha = undefined
+speculative = false
+is_destroy = false
+refresh = true
+refresh_only = false
+replace_addrs = null
+target_addrs = null
+
+variables = {
+	"AWS_ACCESS_KEY_ID": {
+		"category":  "env",
+		"sensitive": true,
+	},
+	"AWS_SECRET_ACCESS_KEY": {
+		"category":  "env",
+		"sensitive": true,
+	},
+}
+
+organization = {
+	"name": "TF-CHIP",
+}
+
+workspace = {
+	"auto_apply":        false,
+	"created_at":        "2022-09-13T08:58:05.067Z",
+	"description":       "",
+	"id":                "ws-Qxaig2F4LBSmhmxo",
+	"name":              "sentinel-test-ws",
+	"tags":              [],
+	"vcs_repo":          null,
+	"working_directory": "",
+}
+
+cost_estimate = {
+	"delta_monthly_cost":    "0.0",
+	"prior_monthly_cost":    "0.0",
+	"proposed_monthly_cost": "0.0",
+}

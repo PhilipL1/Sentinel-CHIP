@@ -1,0 +1,10 @@
+./autocomplete.go
+./cli.go
+./command.go
+./command_mock.go
+./help.go
+./ui.go
+./ui_colored.go
+./ui_concurrent.go
+./ui_mock.go
+./ui_writer.go

@@ -1,0 +1,14 @@
+./config_traversals.go
+./consolidate_warnings.go
+./contextual.go
+./diagnostic.go
+./diagnostic_base.go
+./diagnostics.go
+./doc.go
+./error.go
+./hcl.go
+./rpc_friendly.go
+./severity_string.go
+./simple_warning.go
+./source_range.go
+./sourceless.go

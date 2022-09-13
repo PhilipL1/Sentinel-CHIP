@@ -1,0 +1,7 @@
+[2022-08-22 19:35:58.774] [cli] [info] CLI main {"_":[],"bind-addr":"127.0.0.1:8080","auth":"password","password":"9806892eecb704d9e2bf0838","config":"/root/.config/code-server/config.yaml","install-extension":["hashicorp-sentinel.sentinel"],"user-data-dir":"/root/.local/share/code-server","extensions-dir":"/root/.local/share/code-server/extensions","host":"127.0.0.1","port":8080,"proxy-domain":[],"usingEnvPassword":false,"usingEnvHashedPassword":false,"logsPath":"/root/.local/share/code-server/logs/20220822T193558"}
+[2022-08-22 19:35:59.371] [cli] [info] Installing extension: hashicorp-sentinel.sentinel
+[2022-08-22 19:35:59.682] [cli] [info] Downloaded extension: hashicorp-sentinel.sentinel /root/.local/share/code-server/CachedExtensionVSIXs/hashicorp-sentinel.sentinel-0.0.3
+[2022-08-22 19:35:59.701] [cli] [info] Extracted extension to /root/.local/share/code-server/extensions/.b4881244-7e7c-4d73-bc08-2dac753842ca: hashicorp-sentinel.sentinel
+[2022-08-22 19:35:59.705] [cli] [info] Renamed to /root/.local/share/code-server/extensions/hashicorp-sentinel.sentinel-0.0.3
+[2022-08-22 19:35:59.706] [cli] [info] Extracting completed. hashicorp-sentinel.sentinel
+[2022-08-22 19:35:59.709] [cli] [info] Extension installed successfully: hashicorp-sentinel.sentinel

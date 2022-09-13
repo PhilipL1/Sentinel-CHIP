@@ -1,0 +1,16 @@
+./didyoumean.go
+./doc.go
+./errors.go
+./filesystem_mirror_source.go
+./filesystem_search.go
+./hash.go
+./http_mirror_source.go
+./memoize_source.go
+./mock_source.go
+./multi_source.go
+./package_authentication.go
+./public_keys.go
+./registry_client.go
+./registry_source.go
+./source.go
+./types.go

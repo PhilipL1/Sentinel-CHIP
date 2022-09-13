@@ -1,0 +1,13 @@
+./doc.go
+./list.go
+./parse.go
+./set.go
+./set_bound.go
+./set_exact.go
+./set_extremes.go
+./set_finite.go
+./set_intersection.go
+./set_released.go
+./set_subtract.go
+./set_union.go
+./version.go

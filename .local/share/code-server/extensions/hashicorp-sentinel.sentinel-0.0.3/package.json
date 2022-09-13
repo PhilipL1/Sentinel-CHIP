@@ -1,0 +1,42 @@
+{
+	"name": "sentinel",
+	"displayName": "HashiCorp Sentinel",
+	"publisher": "hashicorp-sentinel",
+	"description": "VSCode language support for HashiCorp Sentinel",
+	"version": "0.0.3",
+	"repository": "https://github.com/glenngillen/vscode-sentinel.git",
+	"engines": {
+		"vscode": "^1.41.0"
+	},
+	"categories": [
+		"Programming Languages"
+	],
+	"contributes": {
+		"languages": [
+			{
+				"id": "sentinel",
+				"aliases": [
+					"HashiCorp Sentinel",
+					"sentinel"
+				],
+				"extensions": [
+					".sentinel"
+				],
+				"configuration": "./language-configuration.json"
+			}
+		],
+		"grammars": [
+			{
+				"language": "sentinel",
+				"scopeName": "source.sentinel",
+				"path": "./syntaxes/sentinel.tmlanguage.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "hashicorp-sentinel.sentinel",
+		"publisherId": "hashicorp-sentinel",
+		"publisherDisplayName": "hashicorp-sentinel",
+		"installedTimestamp": 1661196959701
+	}
+}

@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.defaultProfile.linux": "bash",
+    "terminal.integrated.fontFamily": "Inconsolata, Consolas, 'Courier New', monospace",
+    "terminal.integrated.copyOnSelection": true,
+    "workbench.colorTheme": "Visual Studio Dark",
+    "files.exclude": {
+        ".cache": true,
+        ".local": true,
+    }
+}

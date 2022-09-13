@@ -1,0 +1,3 @@
+./doc.go
+./replacefile_unix.go
+./writefile.go

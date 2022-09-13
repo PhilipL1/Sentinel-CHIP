@@ -1,0 +1,7 @@
+[2022-08-22 19:35:53.650] [cli] [info] CLI main {"_":[],"bind-addr":"127.0.0.1:8080","auth":"password","password":"9806892eecb704d9e2bf0838","config":"/root/.config/code-server/config.yaml","install-extension":["hashicorp.terraform"],"user-data-dir":"/root/.local/share/code-server","extensions-dir":"/root/.local/share/code-server/extensions","host":"127.0.0.1","port":8080,"proxy-domain":[],"usingEnvPassword":false,"usingEnvHashedPassword":false,"logsPath":"/root/.local/share/code-server/logs/20220822T193553"}
+[2022-08-22 19:35:55.571] [cli] [info] Installing extension: hashicorp.terraform
+[2022-08-22 19:35:56.132] [cli] [info] Downloaded extension: hashicorp.terraform /root/.local/share/code-server/CachedExtensionVSIXs/hashicorp.terraform-2.14.0
+[2022-08-22 19:35:58.004] [cli] [info] Extracted extension to /root/.local/share/code-server/extensions/.ac491999-8f42-4a7e-9b22-dcb9677528a7: hashicorp.terraform
+[2022-08-22 19:35:58.014] [cli] [info] Renamed to /root/.local/share/code-server/extensions/hashicorp.terraform-2.14.0
+[2022-08-22 19:35:58.016] [cli] [info] Extracting completed. hashicorp.terraform
+[2022-08-22 19:35:58.018] [cli] [info] Extension installed successfully: hashicorp.terraform

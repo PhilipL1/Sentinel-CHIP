@@ -1,0 +1,7 @@
+[2022-08-22 19:36:00.460] [cli] [info] CLI main {"_":[],"bind-addr":"127.0.0.1:8080","auth":"password","password":"9806892eecb704d9e2bf0838","config":"/root/.config/code-server/config.yaml","install-extension":["wholroyd.HCL"],"user-data-dir":"/root/.local/share/code-server","extensions-dir":"/root/.local/share/code-server/extensions","host":"127.0.0.1","port":8080,"proxy-domain":[],"usingEnvPassword":false,"usingEnvHashedPassword":false,"logsPath":"/root/.local/share/code-server/logs/20220822T193600"}
+[2022-08-22 19:36:00.944] [cli] [info] Installing extension: wholroyd.hcl
+[2022-08-22 19:36:01.302] [cli] [info] Downloaded extension: wholroyd.hcl /root/.local/share/code-server/CachedExtensionVSIXs/wholroyd.hcl-0.0.4
+[2022-08-22 19:36:02.502] [cli] [info] Extracted extension to /root/.local/share/code-server/extensions/.e524df42-9baf-4f42-bc14-00ef4e1fee0d: wholroyd.hcl
+[2022-08-22 19:36:02.509] [cli] [info] Renamed to /root/.local/share/code-server/extensions/wholroyd.hcl-0.0.4
+[2022-08-22 19:36:02.510] [cli] [info] Extracting completed. wholroyd.hcl
+[2022-08-22 19:36:02.513] [cli] [info] Extension installed successfully: wholroyd.hcl

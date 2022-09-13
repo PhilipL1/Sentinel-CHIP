@@ -1,0 +1,95 @@
+[2022-09-13 08:50:20.688] [exthost] [info] extension host started
+[2022-09-13 08:50:20.727] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': Lock acquired.
+[2022-09-13 08:50:20.851] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-09-13 08:50:20.852] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2022-09-13 08:50:20.875] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 08:50:20.876] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2022-09-13 08:50:21.744] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 08:50:21.744] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2022-09-13 08:50:21.931] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2022-09-13 08:50:21.932] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2022-09-13 08:50:23.076] [exthost] [info] ExtensionService#_doActivateExtension hashicorp.terraform {"startup":true,"extensionId":{"value":"hashicorp.terraform","_lower":"hashicorp.terraform"},"activationEvent":"workspaceContains:**/*.tf"}
+[2022-09-13 08:50:23.077] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/hashicorp.terraform-2.14.0/out/extension
+[2022-09-13 08:50:25.606] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2022-09-13 08:50:25.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2022-09-13 08:50:25.632] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2022-09-13 08:50:25.632] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2022-09-13 08:50:25.639] [exthost] [info] eager extensions activated
+[2022-09-13 09:07:47.781] [exthost] [info] extension host started
+[2022-09-13 09:07:47.781] [exthost] [error] Error: EEXIST: file already exists, open '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock'
+[2022-09-13 09:07:47.801] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-13 09:07:47.815] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': The lock does not look stale, elapsed: 880 ms, giving up.
+[2022-09-13 09:07:47.822] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock': Lock acquired.
+[2022-09-13 09:07:47.948] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-09-13 09:07:47.953] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2022-09-13 09:07:47.966] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 09:07:47.967] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2022-09-13 09:07:48.562] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 09:07:48.562] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2022-09-13 09:07:48.740] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2022-09-13 09:07:48.741] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2022-09-13 09:07:49.708] [exthost] [info] ExtensionService#_doActivateExtension hashicorp.terraform {"startup":true,"extensionId":{"value":"hashicorp.terraform","_lower":"hashicorp.terraform"},"activationEvent":"workspaceContains:**/*.tf"}
+[2022-09-13 09:07:49.708] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/hashicorp.terraform-2.14.0/out/extension
+[2022-09-13 09:07:51.082] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2022-09-13 09:07:51.083] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2022-09-13 09:07:51.105] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2022-09-13 09:07:51.106] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2022-09-13 09:07:51.111] [exthost] [info] eager extensions activated
+[2022-09-13 09:33:46.648] [exthost] [info] extension host started
+[2022-09-13 09:33:46.650] [exthost] [error] Error: EEXIST: file already exists, open '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock'
+[2022-09-13 09:33:46.673] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-13 09:33:46.690] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': The lock does not look stale, elapsed: 203 ms, giving up.
+[2022-09-13 09:33:46.693] [exthost] [error] Error: EEXIST: file already exists, open '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock'
+[2022-09-13 09:33:46.697] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-13 09:33:46.699] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock': The lock does not look stale, elapsed: 158 ms, giving up.
+[2022-09-13 09:33:46.803] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-09-13 09:33:46.813] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2022-09-13 09:33:46.828] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 09:33:46.838] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2022-09-13 09:33:47.177] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-2/vscode.lock': Lock acquired.
+[2022-09-13 09:33:47.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 09:33:47.491] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2022-09-13 09:33:47.574] [exthost] [info] ExtensionService#_doActivateExtension hashicorp.terraform {"startup":true,"extensionId":{"value":"hashicorp.terraform","_lower":"hashicorp.terraform"},"activationEvent":"workspaceContains:**/*.tf"}
+[2022-09-13 09:33:47.576] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/hashicorp.terraform-2.14.0/out/extension
+[2022-09-13 09:33:48.286] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2022-09-13 09:33:48.289] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2022-09-13 09:33:49.762] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2022-09-13 09:33:49.765] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2022-09-13 09:33:49.786] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2022-09-13 09:33:49.788] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2022-09-13 09:33:49.794] [exthost] [info] eager extensions activated
+[2022-09-13 10:04:01.532] [exthost] [info] extension host started
+[2022-09-13 10:04:01.539] [exthost] [error] Error: EEXIST: file already exists, open '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock'
+[2022-09-13 10:04:01.550] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-13 10:04:01.559] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac/vscode.lock': The lock does not look stale, elapsed: 416 ms, giving up.
+[2022-09-13 10:04:01.564] [exthost] [error] Error: EEXIST: file already exists, open '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock'
+[2022-09-13 10:04:01.567] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-13 10:04:01.571] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-1/vscode.lock': The lock does not look stale, elapsed: 350 ms, giving up.
+[2022-09-13 10:04:01.576] [exthost] [error] Error: EEXIST: file already exists, open '/root/.local/share/code-server/User/workspaceStorage/743c1eac-2/vscode.lock'
+[2022-09-13 10:04:01.579] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-2/vscode.lock': Could not acquire lock, checking if the file is stale.
+[2022-09-13 10:04:01.583] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-2/vscode.lock': The lock does not look stale, elapsed: 366 ms, giving up.
+[2022-09-13 10:04:01.595] [exthost] [info] Lock '/root/.local/share/code-server/User/workspaceStorage/743c1eac-3/vscode.lock': Lock acquired.
+[2022-09-13 10:04:01.646] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2022-09-13 10:04:01.652] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/debug-auto-launch/dist/extension
+[2022-09-13 10:04:01.719] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 10:04:01.730] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/git/dist/main
+[2022-09-13 10:04:02.010] [exthost] [info] ExtensionService#_doActivateExtension vscode.github {"startup":true,"extensionId":{"value":"vscode.github","_lower":"vscode.github"},"activationEvent":"*"}
+[2022-09-13 10:04:02.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/github/dist/extension.js
+[2022-09-13 10:04:02.104] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug {"startup":false,"extensionId":{"value":"ms-vscode.js-debug","_lower":"ms-vscode.js-debug"},"activationEvent":"onCommand:extension.js-debug.clearAutoAttachVariables"}
+[2022-09-13 10:04:02.107] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/ms-vscode.js-debug/src/extension.js
+[2022-09-13 10:04:02.548] [exthost] [info] ExtensionService#_doActivateExtension hashicorp.terraform {"startup":true,"extensionId":{"value":"hashicorp.terraform","_lower":"hashicorp.terraform"},"activationEvent":"workspaceContains:**/*.tf"}
+[2022-09-13 10:04:02.552] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.local/share/code-server/extensions/hashicorp.terraform-2.14.0/out/extension
+[2022-09-13 10:04:03.508] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":false,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"onStartupFinished"}
+[2022-09-13 10:04:03.514] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/emmet/dist/node/emmetNodeMain
+[2022-09-13 10:04:03.543] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":false,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"onStartupFinished"}
+[2022-09-13 10:04:03.546] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/merge-conflict/dist/mergeConflictMain
+[2022-09-13 10:04:03.556] [exthost] [info] eager extensions activated
+[2022-09-13 10:29:01.516] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing {"startup":false,"extensionId":{"value":"vscode.configuration-editing","_lower":"vscode.configuration-editing"},"activationEvent":"onLanguage:json"}
+[2022-09-13 10:29:01.525] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/configuration-editing/dist/configurationEditingMain
+[2022-09-13 10:29:01.565] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing {"startup":false,"extensionId":{"value":"vscode.extension-editing","_lower":"vscode.extension-editing"},"activationEvent":"onLanguage:json"}
+[2022-09-13 10:29:01.572] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/extension-editing/dist/extensionEditingMain
+[2022-09-13 10:29:01.637] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features {"startup":false,"extensionId":{"value":"vscode.json-language-features","_lower":"vscode.json-language-features"},"activationEvent":"onLanguage:json"}
+[2022-09-13 10:29:01.642] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/json-language-features/client/dist/node/jsonClientMain
+[2022-09-13 10:29:01.855] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm {"startup":false,"extensionId":{"value":"vscode.npm","_lower":"vscode.npm"},"activationEvent":"onLanguage:json"}
+[2022-09-13 10:29:01.860] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/lib/code-server/vendor/modules/code-oss-dev/extensions/npm/dist/npmMain
+[2022-09-13 10:30:12.538] [exthost] [warning] [Decorations] CAPPING events from decorations provider vscode.git 5000

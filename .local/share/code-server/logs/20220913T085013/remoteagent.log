@@ -1,0 +1,2 @@
+[2022-09-13 10:04:01.165] [main] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2022-09-13 10:04:01.171] [main] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)

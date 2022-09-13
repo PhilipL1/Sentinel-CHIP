@@ -1,0 +1,7 @@
+./cached_provider.go
+./dir.go
+./dir_modify.go
+./doc.go
+./installer.go
+./installer_events.go
+./package_install.go

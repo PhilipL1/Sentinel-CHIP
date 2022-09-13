@@ -1,0 +1,5 @@
+./doc.go
+./locks.go
+./locks_file.go
+./paths.go
+./testing.go
